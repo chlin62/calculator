@@ -1,6 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
 [![Build Status](https://dev.azure.com/tsmc-devops-poc/devops-lab-github/_apis/build/status/chlin62.calculator?branchName=master)](https://dev.azure.com/tsmc-devops-poc/devops-lab-github/_build/latest?definitionId=6&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
